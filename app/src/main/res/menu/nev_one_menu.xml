@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+
+
+    <item
+        android:title="My Profile"
+        android:icon="@drawable/profile"
+        android:id="@+id/nev_profileId"
+        />
+
+    <item
+        android:title="My Network"
+        android:icon="@drawable/network"
+        android:id="@+id/nev_networkId"
+        />
+    <item
+        android:title="Switch to Services"
+        android:icon="@drawable/services"
+        android:id="@+id/nev_servicesId"
+        />
+
+    <item
+        android:title="Switch to Businesses"
+        android:icon="@drawable/business"
+        android:id="@+id/nev_businessesId"
+        />
+    <item
+        android:title="Dating"
+        android:icon="@drawable/dating"
+        android:id="@+id/nev_datingId"
+        />
+
+    <item
+        android:title="Matrimony"
+        android:icon="@drawable/matrimony"
+        android:id="@+id/nev_matrimonyId"
+        />
+    <item
+        android:title="Buy-Sell-Rent"
+        android:icon="@drawable/buy_sell"
+        android:id="@+id/nev_buy_sell_rentId"
+        />
+
+    <item
+        android:title="Job"
+        android:icon="@drawable/job"
+        android:id="@+id/nev_jobId"
+        />
+    <item
+        android:title="Business Cards"
+        android:icon="@drawable/business_cards"
+        android:id="@+id/nev_business_cardsId"
+        />
+
+    <item
+        android:title="Netclan Groups"
+        android:icon="@drawable/natclan_groups"
+        android:id="@+id/nev_netclan_groupsID"
+        />
+    <item
+        android:title="Notes"
+        android:icon="@drawable/notes"
+        android:id="@+id/nev_notesId"
+        />
+
+    <item
+        android:title="Live Locations"
+        android:icon="@drawable/live_locations"
+        android:id="@+id/nev_live_locationsId"
+        />
+
+</menu>
